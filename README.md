@@ -1,3 +1,6 @@
 # P5sound
 Site setup pour utiliser p5.js avec du son
-utiliser la barre d'espace pour passez les grilles 
+
+
+
+!!utiliser la barre d'espace pour passer les grilles !!
